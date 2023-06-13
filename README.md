@@ -13,9 +13,9 @@ We have learned about ANNs and how they can be created with `TensorFlow`. We hav
 ## Interpretation
 
 While some of this lesson may seem redundant to what we have previously done with neural networks, this lesson will allow us to
-*   review the key concepts of neural networks
-*   get a better understanding on how neural networks work
-*   visualize what is happening within the neural network
+* review the key concepts of neural networks
+* get a better understanding on how neural networks work
+* visualize what is happening within the neural network
 
 
 
